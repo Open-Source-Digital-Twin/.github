@@ -12,8 +12,8 @@ A digital twin is a virtual representation of a physical object, process, or sys
 
 Explore our open source digital twin projects:
 
-1. **[Motion control playground](https://github.com/Open-Source-Digital-Twin/motion-control-playground)**: A brief description of the project and its purpose.
-2. **[Inverted Pendulum Controller](https://github.com/Open-Source-Digital-Twin/inverted-pendulum-controller)**: Another project with a short description.
+1. **[Motion control playground](https://github.com/Open-Source-Digital-Twin/motion-control-playground)**: This project is a virtual environment for testing different motion control algorithms. It uses the Bevy game engine and is written in Rust.
+2. **[Inverted Pendulum Controller](https://github.com/Open-Source-Digital-Twin/inverted-pendulum-controller)**: An open-source controller for stabilizing inverted pendulum systems, facilitating research and experimentation in control theory and robotics.
 
 ### How to Contribute
 
